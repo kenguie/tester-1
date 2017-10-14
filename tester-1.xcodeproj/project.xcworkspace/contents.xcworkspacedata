@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Welcome_VR-Chronicles.jpg">
+   </FileRef>
+   <FileRef
       location = "self:tester-1.xcodeproj">
    </FileRef>
 </Workspace>
